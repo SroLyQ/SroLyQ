@@ -7,7 +7,7 @@
     <p align="center" style="padding-top:2.5%;">
         <div>
             <div>
-                <h3>My Contact 📪: kawjaw66@gmail.com</h3>
+                <h3>My Contact 📪: isarap1302@gmail.com</h3>
             <div>
             <div style = "display:flex flex-direction: column">
                 <img src='https://github-readme-stats.vercel.app/api?username=SroLyQ&hide=issues&count_private=true&show_icons=true&theme=bear' style = "padding-left:0%" width= "50%">
