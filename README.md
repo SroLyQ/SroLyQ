@@ -15,7 +15,7 @@
                 <h3>My Contact 📪: isarap1302@gmail.com</h3>
             <div>
             <div style = "display:flex flex-direction: column">
-                <img src='https://github-readme-stats.vercel.app/api?username=SroLyQ&hide=issues&count_private=true&show_icons=true&theme=bear' style = "padding-left:0%" width= "50%">
+                <img src='https://github-readme-stats.vercel.app/api?username=SroLyQ&hide=issues&count_private=true&show_icons=true&theme=bear' style = "padding-left:4%" width= "50%">
                 </img>
                 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SroLyQ&layout=compact&theme=bear&card_width=350' style="padding-left:5%;" width= "41%">
                 </img>
