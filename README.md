@@ -3,10 +3,15 @@
     <h1 align="center" style="color:#c13879;background-color:#1f2023;
     border-style:solid;
     outline:2px solid;
-    text-shadow: 2px 2px 0px White;"> Greetings, SroLyQ here! 😏</h1>
+    text-shadow: 2px 2px 0px White;"> Greetings, I'm Isara 😏</h1>
+    <h1 align="center" style="color:#c13879;background-color:#1f2023;
+    border-style:solid;
+    outline:1px solid;
+    text-shadow: 2px 2px 0px White;"> Welcome to my GitHub account!</h1>
     <p align="center" style="padding-top:2.5%;">
         <div>
             <div>
+                <h3>My Nickname 🧑: Kawjaw🌾</h3>
                 <h3>My Contact 📪: isarap1302@gmail.com</h3>
             <div>
             <div style = "display:flex flex-direction: column">
