@@ -41,7 +41,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
         </div>
         <div>
-            <h3>🧰⚙ Connect with me :</h3>
+            <h3>🌐💬 Connect with me :</h3>
             <a href="https://www.linkedin.com/in/isara-phadungprasertkul-ab5685240/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" ></a>
         </div>
     </p>
